@@ -1,0 +1,5 @@
+/.idea
+/grunt/package-lock.json
+/grunt/node_modules
+/grunt/dist
+/grunt/build
